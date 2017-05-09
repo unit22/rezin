@@ -1,0 +1,21 @@
+.category {margin-left: 15px;}
+
+.leftmenu{font-size: 12px; padding: 0px 5px;}
+.leftmenu>a:visited .leftmenu>a:hover {color: #428bca;}
+.leftside {padding: 5px;}
+.leftsidelinks {padding: 0px;}
+#notbold{font-weight: 300}
+
+.dropdown-menu {min-width: 800px;}
+.dropdown-submenu {position: relative; vertical-align: baseline; }
+.dropdown-submenu>.dropdown-menu {top: 0; left: 100%; margin-top: -6px; margin-left: -1px; -webkit-border-radius: 0 6px 6px 6px; -moz-border-radius: 0 6px 6px; border-radius: 0 6px 6px 6px;}
+.dropdown-submenu:hover>.dropdown-menu {display: block;}
+.dropdown-submenu>a:after {display: block; float: right; width: 0; height: 0; border-color: transparent; border-style: solid; border-width: 5px 0 5px 5px; border-left-color: #ccc; margin-top: 5px; margin-right: -10px; margin-left: 5px;}
+.dropdown-submenu:hover>a:after {border-left-color: #fff;}
+.dropdown-submenu.pull-left {float: none;}
+.dropdown-submenu.pull-left>.dropdown-menu {left: -100%; margin-left: 100px; -webkit-border-radius: 6px 0 6px 6px; -moz-border-radius: 6px 0 6px 6px; border-radius: 6px 0 6px 6px; background-color: black; z-index: 10000;}
+#left-cat2 {margin-left: 10px; color: #428bca; font-size: 12px; font-weight: 600; padding: 5px 5px; z-index: 10000; margin-top: 5px;}
+#left-cat3 {margin-left: 10px; color: #428bca; font-size: 12px; font-weight: 300; padding: 2px 15px; z-index: 10000;}
+.cats3left {float: left;}
+
+hr{margin-top:0px; margin-bottom:0px; border: 0; border-top: 1px solid #eee;}
